@@ -1,3 +1,7 @@
 vendor
-database/database.sqlite
+node_modules
 .env
+.env.local
+.git
+.gitignore
+storage/logs
